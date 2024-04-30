@@ -1,0 +1,24 @@
+body{
+    background-image: url('фонхелокит3.jpg');
+    background-size: 100%;
+}
+.gif{
+margin-left: 32%;
+
+}
+.txt1{
+    font-size: 3vw;
+    font-family: rubik black;
+    color: rgb(255, 88, 158);
+    text-align: center;
+    
+}
+.order{
+
+}
+a{
+    font-family: rubik black;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 1.4vw;
+}
